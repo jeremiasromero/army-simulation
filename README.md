@@ -58,12 +58,14 @@ civilization.
 - In case of a draw, both armies lose one unit (decision left to the programmer)
 
 ## Project Structure
+
+```bash
 army-simulation/
 │
 ├── armies.py # Core domain logic
 ├── main.py # Example usage
 └── README.md
-
+```
 
 ## How to Run
 
